@@ -1,4 +1,4 @@
-# nlp-langchain
+# NLP-LangChain
 Using [LangChain](https://github.com/hwchase17/langchain/) for developing applications powered by language models.
 
 The repository contains:
