@@ -13,7 +13,7 @@ The repository contains:
 For further clarification, please send an email to:
   - Till Schirrmeister (till.schirrmeister@student.uts.edu.au);
   - Joan Velja (joan.velja@student.uts.edu.au);
-  - Florian Hübscher(florian.huebscher@student.uts.edu.au);
-  - Joshua Banga(joshua.banga@student.uts.edu.au).
+  - Florian Hübscher (florian.huebscher@student.uts.edu.au);
+  - Joshua Banga (joshua.banga@student.uts.edu.au).
 
 
