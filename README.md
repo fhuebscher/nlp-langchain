@@ -1,7 +1,7 @@
 # NLP-LangChain
 Using [LangChain](https://github.com/hwchase17/langchain/) for developing applications powered by language models.
 
-The repository contains:
+## The repository contains:
   - `langchainindexing.ipynb`, which is the main script that implements the ChatBot;
   - `uts_scraper.py`, which is the script that we used to scrape all corpus data from the **entire** UTS website (unused due to computational constraints);
   - `p_text.txt`, which is the output txt file from the above scraper;
@@ -9,11 +9,13 @@ The repository contains:
   - `DSMaster.txt`, which is the corpus data scraped from the MDSI webpage and fed into the main script;
   - `assignment3.pdf`, which is the report for the given task.
 
+## External content:
+- [https://github.com/fhuebscher/nlp-langchain](Github repository with all the files involved)
+- [https://studentutsedu-my.sharepoint.com/:p:/g/personal/joan_velja_student_uts_edu_au/EQA46W6rGNhBh2qPYu4Gd9YB0cxJ5RpolxwMmSqZ40-K0A?e=BJFVdK](Ppt of the presentation displayed on May, 15th)
+- [https://colab.research.google.com/drive/1P1vZn4dKZrM-trgRUrWfopbUmu5Z36BN?usp=sharing](Google Colab document)
 
-For further clarification, please send an email to:
+## For further clarification, please send an email to:
   - Till Schirrmeister (till.schirrmeister@student.uts.edu.au);
   - Joan Velja (joan.velja@student.uts.edu.au);
   - Florian Hübscher (florian.huebscher@student.uts.edu.au);
   - Joshua Banga (joshua.banga@student.uts.edu.au).
-
-
