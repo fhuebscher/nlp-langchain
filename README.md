@@ -4,7 +4,7 @@ Using [LangChain](https://github.com/hwchase17/langchain/) for developing applic
 Our proposed project is a ChatBot that enables faster information retrieval in the University of Technology, Sydney's website.
 The model leverages only opensource resources (Alpaca 7B + TensorFlow Embedder) and attains impressive results (demo provides some examples about the Master of Data Science webpage).  
 
-## The repository contains:
+##The repository contains:
   - `langchainindexing.ipynb`, which is the main script that implements the ChatBot;
   - `uts_scraper.py`, which is the script that we used to scrape all corpus data from the **entire** UTS website (unused due to computational constraints);
   - `p_text.txt`, which is the output txt file from the above scraper;
