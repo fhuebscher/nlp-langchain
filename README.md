@@ -1,5 +1,8 @@
-# NLP-LangChain
+# LangChain based Chatbot
 Using [LangChain](https://github.com/hwchase17/langchain/) for developing applications powered by language models.
+
+Our proposed project is a ChatBot that enables faster information retrieval in the University of Technology, Sydney's website.
+The model leverages only opensource resources (Alpaca 7B + TensorFlow Embedder) and attains impressive results (demo provides some examples about the Master of Data Science webpage).  
 
 ## The repository contains:
   - `langchainindexing.ipynb`, which is the main script that implements the ChatBot;
